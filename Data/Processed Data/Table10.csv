@@ -1,0 +1,27 @@
+Study_ID,First Author,Year,Country,CountryFlag,Outcome Domain,Classification,Total Tests,Statistically Significant Tests,Effect Size
+6,Faria,2012,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Social emotional skills,Low,1,1,Beta = 0.18
+14,Kam,2011,Hong Kong,https://cdn.britannica.com/43/82343-004-93844DE8/Flag-Hong-Kong-province-China.jpg,Social emotional skills,Low,3,0,
+20,Mauk,2010,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Social emotional skills,Low,1,0,
+25,Shapiro,2018,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Social emotional skills,Low,1,1,** Beta = 0.43
+2,Berry,2016,England,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Social emotional skills,Medium,4,0,
+7,Gomez,2023,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Social emotional skills,Medium,6,0,
+30,Low,2016,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Social emotional skills,Medium,18,10,"* Beta range = [-0.15, 0.15]"
+20,Mauk,2010,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Attitudes towards school,Low,1,1,Partial eta squared = 0.19
+14,Kam,2011,Hong Kong,https://cdn.britannica.com/43/82343-004-93844DE8/Flag-Hong-Kong-province-China.jpg,Prosocial behaviour,Low,1,0,
+2,Berry,2016,England,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Prosocial behaviour,Medium,2,0,
+30,Low,2016,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Prosocial behaviour,Medium,3,0,
+14,Kam,2011,Hong Kong,https://cdn.britannica.com/43/82343-004-93844DE8/Flag-Hong-Kong-province-China.jpg,Emotional distress,Low,1,0,
+2,Berry,2016,England,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Emotional distress,Medium,2,0,
+7,Gomez,2023,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Emotional distress,Medium,2,0,
+30,Low,2016,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Emotional distress,Medium,3,2,* Beta = 0.10
+6,Faria,2012,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Aggression,Low,1,0,
+14,Kam,2011,Hong Kong,https://cdn.britannica.com/43/82343-004-93844DE8/Flag-Hong-Kong-province-China.jpg,Aggression,Low,1,0,
+20,Mauk,2010,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Aggression,Low,1,1,Partial eta squared = 0.19
+2,Berry,2016,England,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,Aggression,Medium,7,0,
+7,Gomez,2023,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Aggression,Medium,4,0,
+30,Low,2016,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,Aggression,Medium,9,1,* Beta = 0.08
+6,Faria,2012,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,School functioning,Low,1,1,Beta = 0.27
+20,Mauk,2010,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,School functioning,Low,3,0,
+2,Berry,2016,England,https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20210109031434%21Flag_of_Canada_%28Pantone%29.svg,School functioning,Medium,2,0,
+7,Gomez,2023,USA,https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png,School functioning,Medium,4,1,Beta = -0.084
+9,Hennessey,2020,England,https://upload.wikimedia.org/wikipedia/commons/e/ef/England_flag.png,School functioning,High,12,0,
